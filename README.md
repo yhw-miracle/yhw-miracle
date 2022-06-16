@@ -7,7 +7,7 @@
 
 # 个人介绍
 * 爱读书, 截止到目前累计阅读字数超过 3000 万字。
-* 爱编程, 多语言开发者，学过 C、C++、JAVA, 写过网页、Android APP、PC 桌面应用程序。
+* 爱编程, 多语言开发者，使用过 C、C++、Python、JAVA, 写过网页、Android APP、PC 桌面应用程序。
 * 爱写作, 截止到目前发表文字数超 3 万字。
 
 # 网络足迹
@@ -18,5 +18,7 @@
 # 技能树
 * C++: QT/C++11 ...
 * Python: Django/Flask/Scrapy ...
-* 前端: Vue/React ...
+* 后端: 数据库/异步任务/Celery/Docker ...
+* 前端: Html/CSS/JavaScript/Vue/React ...
+* JAVA: Spring
 
