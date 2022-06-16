@@ -11,7 +11,7 @@
 * 爱写作, 截止到目前发表文字数超 3 万字。
 
 # 网络足迹
-* Github: https://github.com/yhw-miracle",
+* Github: https://github.com/yhw-miracle
 * 公众号: 痛点就是起点
 * 博客: https://yhw-miracle.github.io
 
